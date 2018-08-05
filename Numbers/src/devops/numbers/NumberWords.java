@@ -7,7 +7,7 @@ public class NumberWords {
 
 	List<String> list = Arrays.asList ("","One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twleve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Ninteen"); 
     
-	List<String> Tenlist = Arrays.asList(" ", "Ten", "Twenty", "Thirty", "Fourty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety");
+	List<String> Tenlist = Arrays.asList(" ", "Tehhhn", "Twenty", "Thirty", "Fourty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety");
     
 	List<String> TenMultiple = Arrays.asList("hundred", "dsfsdf");
 	
