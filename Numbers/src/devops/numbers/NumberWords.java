@@ -9,7 +9,7 @@ public class NumberWords {
     
 	List<String> Tenlist = Arrays.asList(" ", "Ten", "Twenty", "Thirty", "Fourty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety");
     
-	List<String> TenMultiple = Arrays.asList("hundred", "thousand");
+	List<String> TenMultiple = Arrays.asList("hundred", "");
 	
 	
 	public String toWords( int number ) {
